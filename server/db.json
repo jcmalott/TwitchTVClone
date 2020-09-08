@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "just another day",
+      "id": 2
+    },
+    {
+      "title": "Stream Id",
+      "description": "Stream with a user id attached",
+      "userId": "112579239796962594873",
+      "id": 3
+    },
+    {
+      "title": "Refactor",
+      "description": "Creating a basic from for create and edit",
+      "id": 5
+    },
+    {
+      "title": "Show Me",
+      "description": "Testing the show me screen",
+      "userId": "112579239796962594873",
+      "id": 6
+    },
+    {
+      "title": "testing",
+      "description": "this is a test",
+      "userId": "112579239796962594873",
+      "id": 7
+    }
+  ]
+}
