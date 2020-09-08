@@ -1,5 +1,5 @@
 # HOME 
-![alt text](https://github.com/jcmalott/TwitchTVClone/blob/master/picture/Twitch_signin.PNGG)
+![alt text](https://github.com/jcmalott/TwitchTVClone/blob/master/picture/Twitch_signin.PNG)
 
 # Signed In 
 ![alt text](https://github.com/jcmalott/TwitchTVClone/blob/master/picture/Twitch_signedin.PNG)
